@@ -4,7 +4,13 @@ hi now we are going to see the rebase thing
 // i am going to create a main branch create new branch from it do 3 commits in that , also change the main branch and do some commits in that . 
 
 
+<<<<<<< HEAD
 // now some edit in these thing and we are going to change the base our b-01 is not directing here . 
 
 
 // experiment is going on .... 
+=======
+// first line 
+
+// second commit 
+>>>>>>> 9d39d76 (B-01 second commit)
